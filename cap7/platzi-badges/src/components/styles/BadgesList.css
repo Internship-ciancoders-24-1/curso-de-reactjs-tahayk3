@@ -1,0 +1,16 @@
+
+  .Element {
+    background: #e7e6e6;
+    box-shadow: 0 2px 4px 0 rgba(23, 201, 32, 0.23);
+    display: flex;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 15px;
+  }
+  
+  .Profile {
+    width: 90px;
+    height: 90px;
+    border-radius: 70%;
+    margin-right: 3.5rem;
+  }
